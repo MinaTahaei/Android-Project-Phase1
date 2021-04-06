@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="406dp"
+        android:layout_height="429dp"
+        android:contentDescription="@string/TopPic"
+        android:src="@drawable/group_5"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-4dp" />
+
+    <ImageView
+        android:layout_width="258dp"
+        android:layout_height="17dp"
+        android:contentDescription="@string/colorfulText"
+        android:src="@drawable/component_1__1"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="443dp" />
+    <ImageView
+        android:layout_width="41dp"
+        android:layout_height="37dp"
+        android:contentDescription="@string/cardRectangle"
+        android:src="@drawable/rectangle_6"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="274dp"
+        tools:layout_editor_absoluteY="433dp" />
+    <ImageView
+        android:layout_width="4dp"
+        android:layout_height="16dp"
+        android:contentDescription="@string/cardSmile"
+        android:src="@drawable/path_9"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="305dp"
+        tools:layout_editor_absoluteY="435dp" />
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="9dp"
+        android:layout_height="7dp"
+        android:contentDescription="@string/cardLine"
+        android:src="@drawable/line_2"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="281dp"
+        tools:layout_editor_absoluteY="458dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="361dp"
+        android:layout_height="191dp"
+        android:contentDescription="@string/BigText"
+        android:text="@string/make_paying_easier_with_wallet"
+        android:textColor="@color/white"
+        android:textSize="50sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="37dp"
+        tools:layout_editor_absoluteY="478dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

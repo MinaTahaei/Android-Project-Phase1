@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android_Phase1_Group1</string>
+    <string name="more_than_a_wallet">More than a wallet</string>
+    <string name="make_paying_easier_with_wallet">Make Paying Easier With Wallet.</string>
+    <string name="TopPic">TopPic</string>
+    <string name="colorfulText">ColorfulText</string>
+    <string name="cardRectangle">cardRectangle</string>
+    <string name="cardLine">cardLine</string>
+    <string name="cardSmile">cardSmile</string>
+    <string name="BigText">BigText</string>
+    <string name="ColorfulcCircle">ColorfulCircle</string>
+    <string name="get_started">Get Started</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Android_Phase1_Group1"
