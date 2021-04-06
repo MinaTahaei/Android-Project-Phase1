@@ -11,4 +11,8 @@ Professor: Dr. Abolfazl Diyanat
 **Designing and getting familiar with layouts.**
 In this project we are supposed to design the following single page without any functionality.
 
+## Android API Level : API 30
+
+## Designed For: Pixel 4 XL
+
 ![Pic_001](https://user-images.githubusercontent.com/35001360/111257610-b1888b00-8630-11eb-9a4e-652bb1bd7fbf.jpg)
