@@ -62,4 +62,41 @@
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="37dp"
         tools:layout_editor_absoluteY="478dp" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:contentDescription="@string/ColorfulcCircle"
+        android:src="@drawable/exclusion_1"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="37dp"
+        tools:layout_editor_absoluteY="674dp" />
+
+    <View
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/circle"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="135dp"
+        tools:layout_editor_absoluteY="677dp" />
+
+    <View
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/circle"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="677dp" />
+
+
+    <Button
+        android:layout_width="184dp"
+        android:layout_height="58dp"
+        android:background="@drawable/button"
+        android:text="@string/get_started"
+        android:textAllCaps="false"
+        android:textSize="22sp"
+        app:backgroundTint="@null"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="37dp"
+        tools:layout_editor_absoluteY="711dp" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
