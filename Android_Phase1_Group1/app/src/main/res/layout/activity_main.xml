@@ -69,9 +69,9 @@
 
             <ImageView
                 android:id="@+id/colorfulCircle"
-                android:layout_width="10dp"
-                android:layout_height="10dp"
-                android:layout_marginStart="16dp"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginStart="30dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
                 android:contentDescription="@string/ColorfulcCircle"
@@ -90,7 +90,7 @@
                 android:id="@+id/whiteCircle2"
                 android:layout_width="10dp"
                 android:layout_height="10dp"
-                android:layout_marginStart="8dp"
+                android:layout_marginStart="-200dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="220dp"
                 android:background="@drawable/circle" />
